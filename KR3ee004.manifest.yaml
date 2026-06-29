@@ -1,0 +1,4435 @@
+canonical_identifier: bkk:krp/KR3ee004/v1
+canonical_location: https://kanripo.org/bkk/KR3ee004/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 針灸神書
+  identifiers:
+    krp: KR3ee004
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee004.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee004_000.yaml, hash: 'sha256:3d8886e1697e02274865fbabbb4875fcda94eed302121cb122e98b23eeaeeb0d'}
+  - {seq: 1, filename: KR3ee004_001.yaml, hash: 'sha256:f2360efeabc16ddde456eda7c6675253a1aef8379536e48687d52a7d2d599b1c'}
+  - {seq: 2, filename: KR3ee004_002.yaml, hash: 'sha256:7b582346bc60365621f79ba28c007fcc76ccc925fa3697c014b5f8fc4a5078e4'}
+  - {seq: 3, filename: KR3ee004_003.yaml, hash: 'sha256:52e12186a3b01ce404ffc37de3c37a352383a7132cdf70b63d42c8f18ee92028'}
+  - {seq: 4, filename: KR3ee004_004.yaml, hash: 'sha256:2a87d8a95afe9e10d70a8a09727482b12f582c71dbc13846546d12ae5251d76b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee004_000.markers.yaml, hash: 'sha256:50590c4faf5831abe1389930032bc34e7132e43e75c48ece0b38d1e7e3c2fd6f'}
+  - {seq: 1, role: markers, filename: assets/KR3ee004_001.markers.yaml, hash: 'sha256:2e0fb114896b8ea60843996873a580bea98494ff746dfe9efa49e952daa5b262'}
+  - {seq: 2, role: markers, filename: assets/KR3ee004_002.markers.yaml, hash: 'sha256:f56fc01da71b5184f36aea401014dd0af35c1b1b0b26e7135e378673db448bc4'}
+  - {seq: 3, role: markers, filename: assets/KR3ee004_003.markers.yaml, hash: 'sha256:b310ea55706311c8a78c1265cff23513089ce1d98134bed234116a82973f0019'}
+  - {seq: 4, role: markers, filename: assets/KR3ee004_004.markers.yaml, hash: 'sha256:b8a6a1b99fce344400183aff5a132717894c05dfa6e09cc6e31cddbd5533bc50'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee004_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 242
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 8753
+  label: 卷一瓊瑤神書天部
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d2
+    span:
+    - body
+    - 8
+    - 333
+  label: 宋徽宗皇帝崇寧五年瓊瑤真人一書手法序一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d3
+    span:
+    - body
+    - 333
+    - 451
+  label: 瓊瑤真人用升陽升陰氣上氣下之手法講論歌二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d4
+    span:
+    - body
+    - 451
+    - 529
+  label: 瓊瑤標本運氣歌三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d5
+    span:
+    - body
+    - 529
+    - 695
+  label: 瓊瑤辨十二經水火分治法四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d6
+    span:
+    - body
+    - 695
+    - 1306
+  label: 宋徽宗崇寧皇帝論五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d7
+    span:
+    - body
+    - 1306
+    - 1766
+  label: 論手足陰陽流注篇六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d8
+    span:
+    - body
+    - 1766
+    - 2459
+  label: 絡脈傳注周流不息七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d9
+    span:
+    - body
+    - 2459
+    - 2465
+  label: 醫學源流八佚
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d10
+    span:
+    - body
+    - 2465
+    - 2677
+  label: 瓊瑤真人避瘟毒傳染法九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d11
+    span:
+    - body
+    - 2677
+    - 2691
+  label: 瓊瑤真人針灸神針禮斗神咒十佚
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d12
+    span:
+    - body
+    - 2691
+    - 2698
+  label: 天昰神咒十一佚
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d13
+    span:
+    - body
+    - 2698
+    - 2707
+  label: 後咒針法揉搓十二佚
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d14
+    span:
+    - body
+    - 2707
+    - 3079
+  label: 生成數十三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d15
+    span:
+    - body
+    - 3079
+    - 3318
+  label: 千金不傳之秘十四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d16
+    span:
+    - body
+    - 3318
+    - 3482
+  label: 瓊瑤神針書定生死之法千金不傳十五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d17
+    span:
+    - body
+    - 3482
+    - 4053
+  label: 瓊瑤真人秘傳神針手法心授口訣二十四字十六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d18
+    span:
+    - body
+    - 4053
+    - 4140
+  label: 赤鳳搖頭十七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d19
+    span:
+    - body
+    - 4140
+    - 4229
+  label: 蒼龍擺尾十八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d20
+    span:
+    - body
+    - 4229
+    - 4337
+  label: 搓法三陽經外絡內搓三陰經內絡外搓十九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d21
+    span:
+    - body
+    - 4337
+    - 4518
+  label: 瓊瑤真人三百六十號總括二十
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d22
+    span:
+    - body
+    - 4518
+    - 5068
+  label: 瓊瑤真人十段錦周流氣上氣下秘訣二十一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3d23
+    span:
+    - body
+    - 5068
+    - 8753
+  label: 瓊瑤真人治病手法歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d2
+    span:
+    - body
+    - 5077
+    - 5109
+  label: 氣上一法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d3
+    span:
+    - body
+    - 5109
+    - 5141
+  label: 氣下二法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d4
+    span:
+    - body
+    - 5141
+    - 5176
+  label: 氣上不行加三法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d5
+    span:
+    - body
+    - 5176
+    - 5211
+  label: 氣下不行加四法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d6
+    span:
+    - body
+    - 5211
+    - 5242
+  label: 升陽法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d7
+    span:
+    - body
+    - 5242
+    - 5273
+  label: 升陰法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d8
+    span:
+    - body
+    - 5273
+    - 5305
+  label: 虛循五法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d9
+    span:
+    - body
+    - 5305
+    - 5337
+  label: 實循六法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d10
+    span:
+    - body
+    - 5337
+    - 5369
+  label: 虛提七法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d11
+    span:
+    - body
+    - 5369
+    - 5401
+  label: 實提八法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d12
+    span:
+    - body
+    - 5401
+    - 5461
+  label: 虛按九法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d13
+    span:
+    - body
+    - 5461
+    - 5493
+  label: 實按十法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d14
+    span:
+    - body
+    - 5493
+    - 5526
+  label: 虛彈十一法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d15
+    span:
+    - body
+    - 5526
+    - 5559
+  label: 實彈十二法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d16
+    span:
+    - body
+    - 5559
+    - 5621
+  label: 虛撞搓十三法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d17
+    span:
+    - body
+    - 5621
+    - 5655
+  label: 實撞搓十四法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d18
+    span:
+    - body
+    - 5655
+    - 5688
+  label: 虛捻十五法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d19
+    span:
+    - body
+    - 5688
+    - 5721
+  label: 實捻十六法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d20
+    span:
+    - body
+    - 5721
+    - 5754
+  label: 加進十七法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d21
+    span:
+    - body
+    - 5754
+    - 5787
+  label: 加退十八法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d22
+    span:
+    - body
+    - 5787
+    - 5812
+  label: 順搖十九法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d23
+    span:
+    - body
+    - 5812
+    - 5837
+  label: 橫搖二十法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d24
+    span:
+    - body
+    - 5837
+    - 5901
+  label: 陰陽手訣二十一法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d25
+    span:
+    - body
+    - 5901
+    - 5965
+  label: 手指提按二十二法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d26
+    span:
+    - body
+    - 5965
+    - 6029
+  label: 刮戰手指二十三法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d27
+    span:
+    - body
+    - 6029
+    - 6093
+  label: 子母指訣二十四法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d28
+    span:
+    - body
+    - 6093
+    - 6158
+  label: 定呼吸度數二十五法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d29
+    span:
+    - body
+    - 6158
+    - 6194
+  label: 室女呼吸二十六法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d30
+    span:
+    - body
+    - 6194
+    - 6232
+  label: 虛實攝手指訣二十七法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d31
+    span:
+    - body
+    - 6232
+    - 6269
+  label: 買氣至浮沉二十八法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d32
+    span:
+    - body
+    - 6269
+    - 6303
+  label: 氣滑二十九法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d33
+    span:
+    - body
+    - 6303
+    - 6336
+  label: 氣澀三十法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d34
+    span:
+    - body
+    - 6336
+    - 6370
+  label: 氣緊三十一法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d35
+    span:
+    - body
+    - 6370
+    - 6404
+  label: 氣微三十二法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d36
+    span:
+    - body
+    - 6404
+    - 6430
+  label: 買氣三十三法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d37
+    span:
+    - body
+    - 6430
+    - 6464
+  label: 轉針三十四法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d38
+    span:
+    - body
+    - 6464
+    - 6501
+  label: 調勻手指訣三十五法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d39
+    span:
+    - body
+    - 6501
+    - 6540
+  label: 男人針自出八分三十六法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d40
+    span:
+    - body
+    - 6540
+    - 6577
+  label: 婦人針自出三十七法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d41
+    span:
+    - body
+    - 6577
+    - 6613
+  label: 四季用艾三十八法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d42
+    span:
+    - body
+    - 6613
+    - 6680
+  label: 頭上有病足下針三十九法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d43
+    span:
+    - body
+    - 6680
+    - 6743
+  label: 頭上使氣四十法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d44
+    span:
+    - body
+    - 6743
+    - 6807
+  label: 上部有汗四十一法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d45
+    span:
+    - body
+    - 6807
+    - 6874
+  label: 頭上有病下部取四十二法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d46
+    span:
+    - body
+    - 6874
+    - 6912
+  label: 男人午前升陽四十三法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d47
+    span:
+    - body
+    - 6912
+    - 6950
+  label: 婦人午前取氣四十四法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d48
+    span:
+    - body
+    - 6950
+    - 6988
+  label: 男子午後買氣四十五法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d49
+    span:
+    - body
+    - 6988
+    - 7026
+  label: 婦人午後取氣四十六法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d50
+    span:
+    - body
+    - 7026
+    - 7062
+  label: 立冬針刺四十七法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d51
+    span:
+    - body
+    - 7062
+    - 7098
+  label: 風雨針刺四十八法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d52
+    span:
+    - body
+    - 7098
+    - 7136
+  label: 日晚急病針刺四十九法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d53
+    span:
+    - body
+    - 7136
+    - 7199
+  label: 半身取汗五十法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d54
+    span:
+    - body
+    - 7199
+    - 7263
+  label: 傷寒無汗五十一法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d55
+    span:
+    - body
+    - 7263
+    - 7326
+  label: 傷寒吐五十二法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d56
+    span:
+    - body
+    - 7326
+    - 7389
+  label: 傷寒下五十三法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d57
+    span:
+    - body
+    - 7389
+    - 7455
+  label: 傷寒汗吐下加五十四法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d58
+    span:
+    - body
+    - 7455
+    - 7519
+  label: 傷寒不傳五十五法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d59
+    span:
+    - body
+    - 7519
+    - 7585
+  label: 傷寒不出汗加五十六法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d60
+    span:
+    - body
+    - 7585
+    - 7650
+  label: 傷寒不傳汗五十七法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d61
+    span:
+    - body
+    - 7650
+    - 7715
+  label: 傷寒急取汗五十八法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d62
+    span:
+    - body
+    - 7715
+    - 7751
+  label: 傷寒升陽五十九法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d63
+    span:
+    - body
+    - 7751
+    - 7786
+  label: 傷寒升陰六十法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d64
+    span:
+    - body
+    - 7786
+    - 7865
+  label: 傷寒不吐加六十一法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d65
+    span:
+    - body
+    - 7865
+    - 7929
+  label: 傷寒不吐六十二法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d66
+    span:
+    - body
+    - 7929
+    - 7994
+  label: 傷寒不傳加六十三法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d67
+    span:
+    - body
+    - 7994
+    - 8059
+  label: 傷寒發熱病六十四法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d68
+    span:
+    - body
+    - 8059
+    - 8128
+  label: 傷寒男子陰證十指青六十五法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d69
+    span:
+    - body
+    - 8128
+    - 8199
+  label: 傷寒婦人十指冷口唇紫色六十六法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d70
+    span:
+    - body
+    - 8199
+    - 8237
+  label: 傷寒氣上虛訣六十七法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d71
+    span:
+    - body
+    - 8237
+    - 8275
+  label: 傷寒氣上實訣六十八法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d72
+    span:
+    - body
+    - 8275
+    - 8340
+  label: 傷寒不傳氣六十九法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d73
+    span:
+    - body
+    - 8340
+    - 8404
+  label: 傷寒氣下加七十法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d74
+    span:
+    - body
+    - 8404
+    - 8441
+  label: 傷寒小兒汗七十一法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d75
+    span:
+    - body
+    - 8441
+    - 8481
+  label: 傷寒小兒汗不出加七十二法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d76
+    span:
+    - body
+    - 8481
+    - 8518
+  label: 傷寒小兒吐七十三法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d77
+    span:
+    - body
+    - 8518
+    - 8556
+  label: 傷寒小兒吐加七十四法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d78
+    span:
+    - body
+    - 8556
+    - 8619
+  label: 心風病七十五法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d79
+    span:
+    - body
+    - 8619
+    - 8683
+  label: 中風不語七十六法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee004_jc_001-d3.d23d80
+    span:
+    - body
+    - 8683
+    - 8753
+  label: 神不守舍心風旺說不定七十七法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 11954
+  label: 卷二瓊瑤神書地部
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d2
+    span:
+    - body
+    - 8
+    - 74
+  label: 男子筋骨疼痛七十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d3
+    span:
+    - body
+    - 74
+    - 140
+  label: 婦人筋骨疼痛七十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d4
+    span:
+    - body
+    - 140
+    - 209
+  label: 婦人嘔吐大便不通二證八十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d5
+    span:
+    - body
+    - 209
+    - 280
+  label: 婦人胎衣不下連小腹疼痛八十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d6
+    span:
+    - body
+    - 280
+    - 348
+  label: 婦人白濁日夜不止八十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d7
+    span:
+    - body
+    - 348
+    - 384
+  label: 婦人生胎八十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d8
+    span:
+    - body
+    - 384
+    - 449
+  label: 婦人下死胎八十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d9
+    span:
+    - body
+    - 449
+    - 487
+  label: 婦人腹上下胎八十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d10
+    span:
+    - body
+    - 487
+    - 553
+  label: 婦人赤白帶下八十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d11
+    span:
+    - body
+    - 553
+    - 611
+  label: 婦人血山崩八十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d12
+    span:
+    - body
+    - 611
+    - 679
+  label: 婦人腳下筋骨疼痛八十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d13
+    span:
+    - body
+    - 679
+    - 747
+  label: 婦人脹滿兩足浮腫八十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d14
+    span:
+    - body
+    - 747
+    - 814
+  label: 婦人腳氣紅腫疼痛九十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d15
+    span:
+    - body
+    - 814
+    - 880
+  label: 婦人經血不調九十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d16
+    span:
+    - body
+    - 880
+    - 918
+  label: 婦人經事不行九十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d17
+    span:
+    - body
+    - 918
+    - 983
+  label: 婦人下經事九十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d18
+    span:
+    - body
+    - 983
+    - 1047
+  label: 室女調經九十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d19
+    span:
+    - body
+    - 1047
+    - 1113
+  label: 婦人經氣不行九十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d20
+    span:
+    - body
+    - 1113
+    - 1183
+  label: 婦人赤白帶下黃瘦潮熱九十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d21
+    span:
+    - body
+    - 1183
+    - 1254
+  label: 婦人血山崩日夜流多不止九十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d22
+    span:
+    - body
+    - 1254
+    - 1325
+  label: 男子腎虛夢泄並夜出盜汗九十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d23
+    span:
+    - body
+    - 1325
+    - 1397
+  label: 男女腳膝紅腫流注氣血疼痛九十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d24
+    span:
+    - body
+    - 1397
+    - 1466
+  label: 婦人五心發熱月水淋漓一百法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d25
+    span:
+    - body
+    - 1466
+    - 1532
+  label: 男子腳氣腫痛一百一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d26
+    span:
+    - body
+    - 1532
+    - 1600
+  label: 男子渾身筋骨疼痛一百二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d27
+    span:
+    - body
+    - 1600
+    - 1666
+  label: 男子五心潮熱一百三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d28
+    span:
+    - body
+    - 1666
+    - 1737
+  label: 男子大小腹痛或兩脅背痛一百四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d29
+    span:
+    - body
+    - 1737
+    - 1805
+  label: 男子心痛噎食難進一百五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d30
+    span:
+    - body
+    - 1805
+    - 1846
+  label: 男子氣上喘下手足冷一百六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d31
+    span:
+    - body
+    - 1846
+    - 1886
+  label: 男女大便虛秘不通一百七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d32
+    span:
+    - body
+    - 1886
+    - 1951
+  label: 男子肚腹下一百八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d33
+    span:
+    - body
+    - 1951
+    - 2016
+  label: 婦人肚腹下一百九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d34
+    span:
+    - body
+    - 2016
+    - 2084
+  label: 男女鼻瀉不聞香臭一百十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d35
+    span:
+    - body
+    - 2084
+    - 2123
+  label: 男女口氣腥臭一百十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d36
+    span:
+    - body
+    - 2123
+    - 2190
+  label: 男女兩眼不開一百十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d37
+    span:
+    - body
+    - 2190
+    - 2259
+  label: 男女眼目紅腫疼痛一百十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d38
+    span:
+    - body
+    - 2259
+    - 2328
+  label: 男女大便虛閉不通一百十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d39
+    span:
+    - body
+    - 2328
+    - 2400
+  label: 男女九種心痛連脾痛不止一百十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d40
+    span:
+    - body
+    - 2400
+    - 2469
+  label: 男女眉間疼痛目昏一百十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d41
+    span:
+    - body
+    - 2469
+    - 2536
+  label: 男女腹上腹下一百十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d42
+    span:
+    - body
+    - 2536
+    - 2577
+  label: 男女腹部盤盤即響一百十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d43
+    span:
+    - body
+    - 2577
+    - 2643
+  label: 男女下小水一百十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d44
+    span:
+    - body
+    - 2643
+    - 2710
+  label: 男女忽然失音一百二十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d45
+    span:
+    - body
+    - 2710
+    - 2776
+  label: 男女耳聾一百二十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d46
+    span:
+    - body
+    - 2776
+    - 2847
+  label: 男女滿腹走氣疼不止一百二十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d47
+    span:
+    - body
+    - 2847
+    - 2913
+  label: 男女取血一百二十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d48
+    span:
+    - body
+    - 2913
+    - 2981
+  label: 男女腰疼腿硬一百二十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d49
+    span:
+    - body
+    - 2981
+    - 3051
+  label: 男女手背紅腫疼痛一百二十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d50
+    span:
+    - body
+    - 3051
+    - 3121
+  label: 男女牙齒疼痛翻胃一百二十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d51
+    span:
+    - body
+    - 3121
+    - 3189
+  label: 男女喉中乳蛾一百二十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d52
+    span:
+    - body
+    - 3189
+    - 3257
+  label: 男女手足之證一百二十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d53
+    span:
+    - body
+    - 3257
+    - 3297
+  label: 男女百節疼痛一百二十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d54
+    span:
+    - body
+    - 3297
+    - 3336
+  label: 男女百節止痛一百三十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d55
+    span:
+    - body
+    - 3336
+    - 3402
+  label: 男女哮喘一百三十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d56
+    span:
+    - body
+    - 3402
+    - 3470
+  label: 男女腹部大盤一百三十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d57
+    span:
+    - body
+    - 3470
+    - 3510
+  label: 男女腹部小盤一百三十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d58
+    span:
+    - body
+    - 3510
+    - 3576
+  label: 男女積聚一百三十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d59
+    span:
+    - body
+    - 3576
+    - 3644
+  label: 男女腹中雙穴一百三十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d60
+    span:
+    - body
+    - 3644
+    - 3712
+  label: 男女大便閉塞一百三十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d61
+    span:
+    - body
+    - 3712
+    - 3780
+  label: 男女小腹脹滿一百三十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d62
+    span:
+    - body
+    - 3780
+    - 3846
+  label: 男女七疝一百三十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d63
+    span:
+    - body
+    - 3846
+    - 3917
+  label: 男女渾身及筋骨疼痛一百三十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d64
+    span:
+    - body
+    - 3917
+    - 3986
+  label: 男女手心勞宮發熱一百四十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d65
+    span:
+    - body
+    - 3986
+    - 4058
+  label: 男女有病邊汗無病邊針一百四十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d66
+    span:
+    - body
+    - 4058
+    - 4128
+  label: 男女遍身風氣麻木一百四十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d67
+    span:
+    - body
+    - 4128
+    - 4196
+  label: 男女移疼住痛一百四十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d68
+    span:
+    - body
+    - 4196
+    - 4236
+  label: 男女應痛取法一百四十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d69
+    span:
+    - body
+    - 4236
+    - 4305
+  label: 男女取冷熱手指一百四十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d70
+    span:
+    - body
+    - 4305
+    - 4376
+  label: 男女氣猛病者要呼吸一百四十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d71
+    span:
+    - body
+    - 4376
+    - 4418
+  label: 男女背部深淺指法一百四十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d72
+    span:
+    - body
+    - 4418
+    - 4462
+  label: 男女腹脹取少陰子午針一百四十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d73
+    span:
+    - body
+    - 4462
+    - 4534
+  label: 男女腹部分寸肥瘦盤法一百四十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d74
+    span:
+    - body
+    - 4534
+    - 4575
+  label: 男女腹部氣不行加一百五十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d75
+    span:
+    - body
+    - 4575
+    - 4642
+  label: 男子腹部急響一百五十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d76
+    span:
+    - body
+    - 4642
+    - 4711
+  label: 女子腹部響聲急一百五十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d77
+    span:
+    - body
+    - 4711
+    - 4751
+  label: 男女腹部氣虛一百五十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d78
+    span:
+    - body
+    - 4751
+    - 4796
+  label: 男女腹部氣不虛不實相勻一百五十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d79
+    span:
+    - body
+    - 4796
+    - 4842
+  label: 男女腹部一二循氣不來為邪一百五十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d80
+    span:
+    - body
+    - 4842
+    - 4888
+  label: 男子腹部針上行盤盤痛不已一百五十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d81
+    span:
+    - body
+    - 4888
+    - 4962
+  label: 男女腹部取響不響足上取汗一百五十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d82
+    span:
+    - body
+    - 4962
+    - 5002
+  label: 男女中風不語一百五十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d83
+    span:
+    - body
+    - 5002
+    - 5042
+  label: 男女鼻流濁涕一百五十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d84
+    span:
+    - body
+    - 5042
+    - 5085
+  label: 男女頭風嘔吐眼目昏花一百六十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d85
+    span:
+    - body
+    - 5085
+    - 5129
+  label: 男女頭項強痛回顧難轉一百六十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d86
+    span:
+    - body
+    - 5129
+    - 5168
+  label: 男女偏正頭風一百六十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d87
+    span:
+    - body
+    - 5168
+    - 5237
+  label: 男女偏正頭風加一百六十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d88
+    span:
+    - body
+    - 5237
+    - 5277
+  label: 男女不知香臭一百六十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d89
+    span:
+    - body
+    - 5277
+    - 5317
+  label: 男女耳聾之證一百六十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d90
+    span:
+    - body
+    - 5317
+    - 5357
+  label: 男女忽然失音一百六十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d91
+    span:
+    - body
+    - 5357
+    - 5397
+  label: 男女忽然眼痛一百六十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d92
+    span:
+    - body
+    - 5397
+    - 5437
+  label: 男女眉間疼痛一百六十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d93
+    span:
+    - body
+    - 5437
+    - 5477
+  label: 男女脊膂強痛一百六十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d94
+    span:
+    - body
+    - 5477
+    - 5517
+  label: 男女眼目紅赤腫一百七十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d95
+    span:
+    - body
+    - 5517
+    - 5557
+  label: 男女腎虛腰痛一百七十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d96
+    span:
+    - body
+    - 5557
+    - 5597
+  label: 男女膝蓋疼痛一百七十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d97
+    span:
+    - body
+    - 5597
+    - 5637
+  label: 男女寒濕腳氣一百七十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d98
+    span:
+    - body
+    - 5637
+    - 5677
+  label: 男女足頭紅腫一百七十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d99
+    span:
+    - body
+    - 5677
+    - 5719
+  label: 男女行步艱難疼痛一百七十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d100
+    span:
+    - body
+    - 5719
+    - 5759
+  label: 男女兩臂疼痛一百七十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d101
+    span:
+    - body
+    - 5759
+    - 5799
+  label: 男女兩手拘攣一百七十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d102
+    span:
+    - body
+    - 5799
+    - 5841
+  label: 男女肩背紅腫疼痛一百七十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d103
+    span:
+    - body
+    - 5841
+    - 5880
+  label: 男女腹中氣痛一百八十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d104
+    span:
+    - body
+    - 5880
+    - 5920
+  label: 男女脾寒之證一百八十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d105
+    span:
+    - body
+    - 5920
+    - 5960
+  label: 男女九種心疼一百八十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d106
+    span:
+    - body
+    - 5960
+    - 6000
+  label: 男女痔漏之疾一百八十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d107
+    span:
+    - body
+    - 6000
+    - 6040
+  label: 男女三焦邪氣一百八十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d108
+    span:
+    - body
+    - 6040
+    - 6080
+  label: 男女手背紅腫一百八十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d109
+    span:
+    - body
+    - 6080
+    - 6120
+  label: 男女時疫瘧疾一百八十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d110
+    span:
+    - body
+    - 6120
+    - 6158
+  label: 男女牙痛一百八十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d111
+    span:
+    - body
+    - 6158
+    - 6200
+  label: 男女心膽虛寒之證一百八十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d112
+    span:
+    - body
+    - 6200
+    - 6240
+  label: 男女乳蛾之證一百八十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d113
+    span:
+    - body
+    - 6240
+    - 6279
+  label: 男女咳嗽風涎一百九十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d114
+    span:
+    - body
+    - 6279
+    - 6319
+  label: 男女癡呆之證一百九十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d115
+    span:
+    - body
+    - 6319
+    - 6359
+  label: 男女連日虛煩一百九十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d116
+    span:
+    - body
+    - 6359
+    - 6399
+  label: 男女風涎爛眼一百九十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d117
+    span:
+    - body
+    - 6399
+    - 6437
+  label: 婦人吹乳一百九十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d118
+    span:
+    - body
+    - 6437
+    - 6478
+  label: 男女滿身熱虛證一百九十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d119
+    span:
+    - body
+    - 6478
+    - 6519
+  label: 男女腎虛小便多一百九十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d120
+    span:
+    - body
+    - 6519
+    - 6559
+  label: 男女九般痔漏一百九十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d121
+    span:
+    - body
+    - 6559
+    - 6599
+  label: 男女膏肓二穴一百九十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d122
+    span:
+    - body
+    - 6599
+    - 6643
+  label: 男女肝經血少眼目昏花一百九十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d123
+    span:
+    - body
+    - 6643
+    - 6680
+  label: 男女脾家之證二百法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d124
+    span:
+    - body
+    - 6680
+    - 6718
+  label: 男女傷寒無汗二百一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d125
+    span:
+    - body
+    - 6718
+    - 6756
+  label: 男女大便閉塞二百二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d126
+    span:
+    - body
+    - 6756
+    - 6794
+  label: 男女小腹脹滿二百三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d127
+    span:
+    - body
+    - 6794
+    - 6832
+  label: 男女七疝偏疼二百四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d128
+    span:
+    - body
+    - 6832
+    - 6870
+  label: 男女渾身疼痛二百五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d129
+    span:
+    - body
+    - 6870
+    - 6911
+  label: 男女勞宮穴手背生瘡二百六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d130
+    span:
+    - body
+    - 6911
+    - 6949
+  label: 男女喘哮之證二百七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d131
+    span:
+    - body
+    - 6949
+    - 6991
+  label: 男女鳩尾獨瀉五般寒癇二百八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d132
+    span:
+    - body
+    - 6991
+    - 7029
+  label: 男女氣喘癋證二百九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d133
+    span:
+    - body
+    - 7029
+    - 7067
+  label: 男女乳強疾證二百十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d134
+    span:
+    - body
+    - 7067
+    - 7106
+  label: 男女水病之證二百十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d135
+    span:
+    - body
+    - 7106
+    - 7147
+  label: 男女腎氣衝心之證二百十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d136
+    span:
+    - body
+    - 7147
+    - 7185
+  label: 婦人赤白證二百十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d137
+    span:
+    - body
+    - 7185
+    - 7228
+  label: 男女傷寒七日過經不傳二百十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d138
+    span:
+    - body
+    - 7228
+    - 7269
+  label: 男女脾瀉五臟虛寒二百十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d139
+    span:
+    - body
+    - 7269
+    - 7308
+  label: 男女口氣之病二百十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d140
+    span:
+    - body
+    - 7308
+    - 7375
+  label: 男女八段補瀉二百十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d141
+    span:
+    - body
+    - 7375
+    - 7442
+  label: 男女手指補瀉二百十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d142
+    span:
+    - body
+    - 7442
+    - 7509
+  label: 男女針頭補瀉二百十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d143
+    span:
+    - body
+    - 7509
+    - 7576
+  label: 男女子母補瀉二百二十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d144
+    span:
+    - body
+    - 7576
+    - 7644
+  label: 男女虛實補瀉二百二十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d145
+    span:
+    - body
+    - 7644
+    - 7712
+  label: 男女提按補瀉二百二十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d146
+    span:
+    - body
+    - 7712
+    - 7780
+  label: 男女陰陽補瀉二百二十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d147
+    span:
+    - body
+    - 7780
+    - 7841
+  label: 男女迎隨補瀉二百二十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d148
+    span:
+    - body
+    - 7841
+    - 7881
+  label: 男女流注補瀉二百二十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d149
+    span:
+    - body
+    - 7881
+    - 7949
+  label: 男女手指補瀉二百二十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d150
+    span:
+    - body
+    - 7949
+    - 7991
+  label: 男女穴法淺深手指二百二十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d151
+    span:
+    - body
+    - 7991
+    - 8106
+  label: 論男女五臟腑十二經圖說二百二十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d152
+    span:
+    - body
+    - 8106
+    - 8146
+  label: 瓊瑤後傳手法二百二十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d153
+    span:
+    - body
+    - 8146
+    - 8179
+  label: 男女分膀胱大小腸二百三十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d154
+    span:
+    - body
+    - 8179
+    - 8220
+  label: 男女論骨節經脈二百三十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d155
+    span:
+    - body
+    - 8220
+    - 8259
+  label: 治腰腿痠疼二百三十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d156
+    span:
+    - body
+    - 8259
+    - 8298
+  label: 治腎虛腰疼二百三十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d157
+    span:
+    - body
+    - 8298
+    - 8340
+  label: 治腰脊強仰俯不得二百三十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d158
+    span:
+    - body
+    - 8340
+    - 8380
+  label: 治閃挫腰脅痛二百三十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d159
+    span:
+    - body
+    - 8380
+    - 8420
+  label: 治腿痠疼痛麻二百三十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d160
+    span:
+    - body
+    - 8420
+    - 8463
+  label: 治單腹脹鼓血氣等痛二百三十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d161
+    span:
+    - body
+    - 8463
+    - 8502
+  label: 治心胸疼痛二百三十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d162
+    span:
+    - body
+    - 8502
+    - 8542
+  label: 又治心胸疼痛二百三十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d163
+    span:
+    - body
+    - 8542
+    - 8579
+  label: 治腹中痛二百四十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d164
+    span:
+    - body
+    - 8579
+    - 8619
+  label: 又治腹中疼痛二百四十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d165
+    span:
+    - body
+    - 8619
+    - 8660
+  label: 治腳氣紅腫生瘡二百四十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d166
+    span:
+    - body
+    - 8660
+    - 8697
+  label: 治瘧疾二百四十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d167
+    span:
+    - body
+    - 8697
+    - 8736
+  label: 治口眼喎斜二百四十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d168
+    span:
+    - body
+    - 8736
+    - 8775
+  label: 治中風不語二百四十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d169
+    span:
+    - body
+    - 8775
+    - 8818
+  label: 治兩手拘攣半身不遂二百四十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d170
+    span:
+    - body
+    - 8818
+    - 8857
+  label: 治偏正頭風二百四十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d171
+    span:
+    - body
+    - 8857
+    - 8896
+  label: 治眼目腫痛二百四十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d172
+    span:
+    - body
+    - 8896
+    - 8933
+  label: 治耳聾二百四十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d173
+    span:
+    - body
+    - 8933
+    - 9000
+  label: 治咳嗽有紅痰二百五十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d174
+    span:
+    - body
+    - 9000
+    - 9065
+  label: 治吐血二百五十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d175
+    span:
+    - body
+    - 9065
+    - 9131
+  label: 肺壅咳嗽二百五十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d176
+    span:
+    - body
+    - 9131
+    - 9170
+  label: 治牙齒疼痛二百五十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d177
+    span:
+    - body
+    - 9170
+    - 9209
+  label: 治疝氣偏疼二百五十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d178
+    span:
+    - body
+    - 9209
+    - 9248
+  label: 治小水不通二百五十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d179
+    span:
+    - body
+    - 9248
+    - 9286
+  label: 治轉食病二百五十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d180
+    span:
+    - body
+    - 9286
+    - 9325
+  label: 治大便閉結二百五十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d181
+    span:
+    - body
+    - 9325
+    - 9368
+  label: 治足不能行懦弱無力二百五十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d182
+    span:
+    - body
+    - 9368
+    - 9407
+  label: 治偏墜紅腫二百五十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d183
+    span:
+    - body
+    - 9407
+    - 9450
+  label: 治木腎不痛腫如升斗大二百六十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d184
+    span:
+    - body
+    - 9450
+    - 9489
+  label: 治腎氣衝心二百六十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d185
+    span:
+    - body
+    - 9489
+    - 9529
+  label: 治虛損蒸勞瘵二百六十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d186
+    span:
+    - body
+    - 9529
+    - 9572
+  label: 治婦人橫產手先出者二百六十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d187
+    span:
+    - body
+    - 9572
+    - 9615
+  label: 治婦人產後胎衣不下二百六十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d188
+    span:
+    - body
+    - 9615
+    - 9654
+  label: 治婦人難產二百六十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d189
+    span:
+    - body
+    - 9654
+    - 9695
+  label: 治婦人月經不通二百六十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d190
+    span:
+    - body
+    - 9695
+    - 9764
+  label: 治婦人赤白帶下二百六十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d191
+    span:
+    - body
+    - 9764
+    - 9809
+  label: 治婦人五心煩熱頭目昏花二百六十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d192
+    span:
+    - body
+    - 9809
+    - 9850
+  label: 治婦人經事不調二百六十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d193
+    span:
+    - body
+    - 9850
+    - 9888
+  label: 治傷寒無汗二百七十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d194
+    span:
+    - body
+    - 9888
+    - 9929
+  label: 治傷寒小便不通二百七十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d195
+    span:
+    - body
+    - 9929
+    - 9971
+  label: 治傷寒後發黃並斑二百七十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d196
+    span:
+    - body
+    - 9971
+    - 10012
+  label: 治傷寒自汗不止二百七十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d197
+    span:
+    - body
+    - 10012
+    - 10107
+  label: 瓊瑤七星針二百七十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d198
+    span:
+    - body
+    - 10107
+    - 10157
+  label: 瓊瑤辨證二百七十五法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d199
+    span:
+    - body
+    - 10157
+    - 10305
+  label: 又曰二百七十六法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d200
+    span:
+    - body
+    - 10305
+    - 10343
+  label: 刺病奇書二百七十七法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d201
+    span:
+    - body
+    - 10343
+    - 10407
+  label: 又曰二百七十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d202
+    span:
+    - body
+    - 10407
+    - 10565
+  label: 砭門秘訣二百七十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d203
+    span:
+    - body
+    - 10565
+    - 10628
+  label: 歌曰二百八十法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d204
+    span:
+    - body
+    - 10628
+    - 10724
+  label: 男女陰陽補瀉二百八十一法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d205
+    span:
+    - body
+    - 10724
+    - 10862
+  label: 瓊瑤秋夫療鬼二百八十二法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d206
+    span:
+    - body
+    - 10862
+    - 11026
+  label: 提按補瀉二百八十三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d207
+    span:
+    - body
+    - 11026
+    - 11164
+  label: 三陽三陰配合上足臟下手腑氣血多少補瀉循提二百八十四法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d208
+    span:
+    - body
+    - 11164
+    - 11628
+  label: 瓊瑤真人汗吐下三法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4.d208d2
+    span:
+    - body
+    - 11173
+    - 11319
+  label: 汗法二百八十五法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4.d208d3
+    span:
+    - body
+    - 11319
+    - 11460
+  label: 吐法二百八十六法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4.d208d4
+    span:
+    - body
+    - 11460
+    - 11628
+  label: 下法二百八十七法
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d209
+    span:
+    - body
+    - 11628
+    - 11824
+  label: 盤盤丹穴法二百八十八法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d210
+    span:
+    - body
+    - 11824
+    - 11881
+  label: 瓊瑤真人問男女針法虛循問答二百八十九法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee004_jc_002-d4d211
+    span:
+    - body
+    - 11881
+    - 11954
+  label: 男女針法實循問答二百九十法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 13828
+  label: 卷三瓊瑤神書人部
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d2
+    span:
+    - body
+    - 8
+    - 99
+  label: 男女針法虛提答問一法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d3
+    span:
+    - body
+    - 99
+    - 178
+  label: 男女針法實提答問二法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d4
+    span:
+    - body
+    - 178
+    - 272
+  label: 男女針法虛按答問三法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d5
+    span:
+    - body
+    - 272
+    - 339
+  label: 男女針法實按答問四法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d6
+    span:
+    - body
+    - 339
+    - 379
+  label: 男女針法虛彈答問五法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d7
+    span:
+    - body
+    - 379
+    - 443
+  label: 男女針法實彈答問六法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d8
+    span:
+    - body
+    - 443
+    - 503
+  label: 男女針法虛撞答問七法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d9
+    span:
+    - body
+    - 503
+    - 552
+  label: 男女針法實撞答問八法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d10
+    span:
+    - body
+    - 552
+    - 601
+  label: 男女針法虛捻答問九法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d11
+    span:
+    - body
+    - 601
+    - 633
+  label: 男女針法實捻答問十法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d12
+    span:
+    - body
+    - 633
+    - 685
+  label: 男女針法戰法答問十一法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d13
+    span:
+    - body
+    - 685
+    - 763
+  label: 男女針法刮法答問十二法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d14
+    span:
+    - body
+    - 763
+    - 821
+  label: 男女針法加進答問十三法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d15
+    span:
+    - body
+    - 821
+    - 858
+  label: 男女針法加退答問十四法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d16
+    span:
+    - body
+    - 858
+    - 926
+  label: 男女針法順逆答問十五法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d17
+    span:
+    - body
+    - 926
+    - 1007
+  label: 男女針法橫逆答問十六法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d18
+    span:
+    - body
+    - 1007
+    - 1103
+  label: 男女針法盤盤法答問十七法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d19
+    span:
+    - body
+    - 1103
+    - 1144
+  label: 男女心腎水火不濟病證十八法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d20
+    span:
+    - body
+    - 1144
+    - 1185
+  label: 男女心腎水火不濟病證十九法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d21
+    span:
+    - body
+    - 1185
+    - 1805
+  label: 瓊瑤講論五臟答問
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5.d21d2
+    span:
+    - body
+    - 1193
+    - 1299
+  label: 一取東方甲乙木講論答問二十法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5.d21d3
+    span:
+    - body
+    - 1299
+    - 1461
+  label: 二取南方丙丁火講論答問二十一法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5.d21d4
+    span:
+    - body
+    - 1461
+    - 1562
+  label: 三取西方庚辛金講論答問二十二法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5.d21d5
+    span:
+    - body
+    - 1562
+    - 1621
+  label: 四取北方壬癸水講論答問二十三法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5.d21d6
+    span:
+    - body
+    - 1621
+    - 1805
+  label: 五取中央戊己土講論答問二十四法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d22
+    span:
+    - body
+    - 1805
+    - 1898
+  label: 一取氣上之法講論答問二十五法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d23
+    span:
+    - body
+    - 1898
+    - 1984
+  label: 二取氣下之法講論答問二十六法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d24
+    span:
+    - body
+    - 1984
+    - 2049
+  label: 三取攝之法講論答問二十七法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d25
+    span:
+    - body
+    - 2049
+    - 2098
+  label: 四取捫者講論答問二十八法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d26
+    span:
+    - body
+    - 2098
+    - 2158
+  label: 五取彈努之法講論答問二十九法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d27
+    span:
+    - body
+    - 2158
+    - 2212
+  label: 六取進退之法講論答問三十法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d28
+    span:
+    - body
+    - 2212
+    - 2261
+  label: 七取撞搓之法講論答問三十一法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d29
+    span:
+    - body
+    - 2261
+    - 2317
+  label: 八取捻之法講論答問三十二法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d30
+    span:
+    - body
+    - 2317
+    - 2356
+  label: 手足陽明答問三十三法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d31
+    span:
+    - body
+    - 2356
+    - 2452
+  label: 六陰六陽本經秘法訣三十四法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d32
+    span:
+    - body
+    - 2452
+    - 2735
+  label: 陰陽配合講論三十五法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d33
+    span:
+    - body
+    - 2735
+    - 2828
+  label: 四時作用氣上氣下秘法講論三十六法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d34
+    span:
+    - body
+    - 2828
+    - 2904
+  label: 瓊瑤大師治小兒深得此理講論三十七法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d35
+    span:
+    - body
+    - 2904
+    - 3252
+  label: 十二經絡捷法人身造化講論三十八法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d36
+    span:
+    - body
+    - 3252
+    - 3509
+  label: 十二經絡所屬出經陰陽相生配合三十九法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d37
+    span:
+    - body
+    - 3509
+    - 3546
+  label: 十二經絡配合四十法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d38
+    span:
+    - body
+    - 3546
+    - 3679
+  label: 手太陰肺經配合四十一法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d39
+    span:
+    - body
+    - 3679
+    - 3826
+  label: 手陽明大腸經六穴配合四十二法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d40
+    span:
+    - body
+    - 3826
+    - 3964
+  label: 手厥陰心包絡經配合四十三法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d41
+    span:
+    - body
+    - 3964
+    - 4088
+  label: 手少陽三焦經配合四十四法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d42
+    span:
+    - body
+    - 4088
+    - 4217
+  label: 手少陰心經配合四十五法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d43
+    span:
+    - body
+    - 4217
+    - 4323
+  label: 手太陽小腸經配合四十六法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d44
+    span:
+    - body
+    - 4323
+    - 4446
+  label: 足厥陰肝經配合四十七法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d45
+    span:
+    - body
+    - 4446
+    - 4533
+  label: 足少陽膽經配合四十八法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d46
+    span:
+    - body
+    - 4533
+    - 4712
+  label: 足太陰脾經配合四十九法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d47
+    span:
+    - body
+    - 4712
+    - 4872
+  label: 足陽明胃經配合五十法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d48
+    span:
+    - body
+    - 4872
+    - 5023
+  label: 足少陰腎經配合五十一法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d49
+    span:
+    - body
+    - 5023
+    - 5170
+  label: 足太陽膀胱經配合五十二法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d50
+    span:
+    - body
+    - 5170
+    - 6215
+  label: 黃帝之機瓊瑤之論五十三法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d51
+    span:
+    - body
+    - 6215
+    - 6258
+  label: 陰榮五十四法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d52
+    span:
+    - body
+    - 6258
+    - 6440
+  label: 陽衛五十五法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d53
+    span:
+    - body
+    - 6440
+    - 6609
+  label: 流注提針鋼領五十六法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d54
+    span:
+    - body
+    - 6609
+    - 6932
+  label: 針說五十七法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d55
+    span:
+    - body
+    - 6932
+    - 7120
+  label: 醫帥論五十八法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d56
+    span:
+    - body
+    - 7120
+    - 7339
+  label: 補瀉法五十九法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d57
+    span:
+    - body
+    - 7339
+    - 7373
+  label: 醫道偈六十法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d58
+    span:
+    - body
+    - 7373
+    - 7472
+  label: 天星十一穴六十一法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d59
+    span:
+    - body
+    - 7472
+    - 7573
+  label: 經絡分所屬六十二法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d60
+    span:
+    - body
+    - 7573
+    - 8757
+  label: 治病手法歌六十三法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d61
+    span:
+    - body
+    - 8757
+    - 9767
+  label: 八法流注六十四法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d62
+    span:
+    - body
+    - 9767
+    - 10709
+  label: 八法歌病源呼吸補瀉六十五法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d63
+    span:
+    - body
+    - 10709
+    - 10760
+  label: 修製藥餌者造針法時日
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d64
+    span:
+    - body
+    - 10760
+    - 10900
+  label: 求醫服藥針灸吉日
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d65
+    span:
+    - body
+    - 10900
+    - 12016
+  label: 孫子中家傳崔氏四花穴法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d66
+    span:
+    - body
+    - 12016
+    - 12062
+  label: 用針尺寸取穴法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d67
+    span:
+    - body
+    - 12062
+    - 12113
+  label: 艾灸大小法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d68
+    span:
+    - body
+    - 12113
+    - 12180
+  label: 取艾法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d69
+    span:
+    - body
+    - 12180
+    - 12236
+  label: 用火法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d70
+    span:
+    - body
+    - 12236
+    - 12839
+  label: 孫子中增添三法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d71
+    span:
+    - body
+    - 12839
+    - 13306
+  label: 治勞取蟲經驗天靈蓋散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d72
+    span:
+    - body
+    - 13306
+    - 13348
+  label: 修合藥法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d73
+    span:
+    - body
+    - 13348
+    - 13398
+  label: 補肝臟勞金明散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d74
+    span:
+    - body
+    - 13398
+    - 13458
+  label: 補心臟勞極守靈散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d75
+    span:
+    - body
+    - 13458
+    - 13510
+  label: 補脾臟勞極魂停散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d76
+    span:
+    - body
+    - 13510
+    - 13581
+  label: 補肺臟勞極虛成散
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d77
+    span:
+    - body
+    - 13581
+    - 13690
+  label: 一捻金九宮尻神
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d78
+    span:
+    - body
+    - 13690
+    - 13771
+  label: 三十日人神截法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d79
+    span:
+    - body
+    - 13771
+    - 13799
+  label: 九部人神不宜針灸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee004_jc_003-d5d80
+    span:
+    - body
+    - 13799
+    - 13828
+  label: 十二部人神不宜針灸
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 5003
+  label: 卷四附方穴圖
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6d2
+    span:
+    - body
+    - 6
+    - 1153
+  label: 十四經穴歌一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d2
+    span:
+    - body
+    - 12
+    - 45
+  label: 手太陰肺經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d3
+    span:
+    - body
+    - 45
+    - 107
+  label: 手陽明大腸經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d4
+    span:
+    - body
+    - 107
+    - 168
+  label: 手太陽小腸經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d5
+    span:
+    - body
+    - 168
+    - 201
+  label: 手少陰心經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d6
+    span:
+    - body
+    - 201
+    - 262
+  label: 足厥陰肝經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d7
+    span:
+    - body
+    - 262
+    - 372
+  label: 足少陽膽經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d8
+    span:
+    - body
+    - 372
+    - 489
+  label: 足太陰脾經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d9
+    span:
+    - body
+    - 489
+    - 592
+  label: 足少陰腎經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d10
+    span:
+    - body
+    - 592
+    - 709
+  label: 足陽明胃經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d11
+    span:
+    - body
+    - 709
+    - 904
+  label: 足太陽膀胱經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d12
+    span:
+    - body
+    - 904
+    - 938
+  label: 手厥陰心包經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d13
+    span:
+    - body
+    - 938
+    - 1007
+  label: 手少陽三焦經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d14
+    span:
+    - body
+    - 1007
+    - 1080
+  label: 任脈經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d2d15
+    span:
+    - body
+    - 1080
+    - 1153
+  label: 督脈經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6d3
+    span:
+    - body
+    - 1153
+    - 2428
+  label: 十四經穴歌二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d2
+    span:
+    - body
+    - 1159
+    - 1248
+  label: 手太陰肺經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d3
+    span:
+    - body
+    - 1248
+    - 1366
+  label: 手陽明大腸經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d4
+    span:
+    - body
+    - 1366
+    - 1441
+  label: 手少陰心經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d5
+    span:
+    - body
+    - 1441
+    - 1503
+  label: 手太陽小腸經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d6
+    span:
+    - body
+    - 1503
+    - 1620
+  label: 足厥陰肝經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d7
+    span:
+    - body
+    - 1620
+    - 1737
+  label: 足少陽膽經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d8
+    span:
+    - body
+    - 1737
+    - 1792
+  label: 足太陰脾經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d9
+    span:
+    - body
+    - 1792
+    - 1867
+  label: 足少陰腎經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d10
+    span:
+    - body
+    - 1867
+    - 2005
+  label: 足陽明胃經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d11
+    span:
+    - body
+    - 2005
+    - 2151
+  label: 足太陽膀胱經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d12
+    span:
+    - body
+    - 2151
+    - 2214
+  label: 手厥陰心包絡經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d13
+    span:
+    - body
+    - 2214
+    - 2318
+  label: 手少陽三焦經
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d14
+    span:
+    - body
+    - 2318
+    - 2350
+  label: 不傳異穴
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d15
+    span:
+    - body
+    - 2350
+    - 2382
+  label: 不傳異穴
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6.d3d16
+    span:
+    - body
+    - 2382
+    - 2428
+  label: 不傳督脈
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6d4
+    span:
+    - body
+    - 2428
+    - 2458
+  label: 穴道分寸歌括
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6d5
+    span:
+    - body
+    - 2458
+    - 2622
+  label: 八法穴道
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6d6
+    span:
+    - body
+    - 2622
+    - 2827
+  label: 天星十一穴
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6d7
+    span:
+    - body
+    - 2827
+    - 4061
+  label: 流注六十穴道
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6d8
+    span:
+    - body
+    - 4061
+    - 4925
+  label: 雜病穴道
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee004_jc_004-d6d9
+    span:
+    - body
+    - 4925
+    - 5003
+  label: 治多年醫不可痔瘡灸法
+  type: section
+  level: 2
+hash: sha256:58f8f149964b7d16298a6dc6db16211918dbc9dc79717d3bf9501c71788d93cb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
