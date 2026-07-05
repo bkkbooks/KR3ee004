@@ -17,17 +17,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee004_000.yaml, hash: 'sha256:3d8886e1697e02274865fbabbb4875fcda94eed302121cb122e98b23eeaeeb0d'}
-  - {seq: 1, filename: KR3ee004_001.yaml, hash: 'sha256:f2360efeabc16ddde456eda7c6675253a1aef8379536e48687d52a7d2d599b1c'}
-  - {seq: 2, filename: KR3ee004_002.yaml, hash: 'sha256:7b582346bc60365621f79ba28c007fcc76ccc925fa3697c014b5f8fc4a5078e4'}
-  - {seq: 3, filename: KR3ee004_003.yaml, hash: 'sha256:52e12186a3b01ce404ffc37de3c37a352383a7132cdf70b63d42c8f18ee92028'}
-  - {seq: 4, filename: KR3ee004_004.yaml, hash: 'sha256:2a87d8a95afe9e10d70a8a09727482b12f582c71dbc13846546d12ae5251d76b'}
+  - {seq: 0, filename: KR3ee004_000.yaml, hash: 'sha256:50e525ddfec4605bdc4ee0fc234dace2b3d3c9993f368feabaabd84aba6a68a3'}
+  - {seq: 1, filename: KR3ee004_001.yaml, hash: 'sha256:5b61afe853998eb98a7d1a5bf4413b2a83c9a62f99af791331355eb2b34a7e2a'}
+  - {seq: 2, filename: KR3ee004_002.yaml, hash: 'sha256:c7c63b1f3c53be8f3eefca86e3e474b67d48cfcdbbf98e86a4964691f2d2ce93'}
+  - {seq: 3, filename: KR3ee004_003.yaml, hash: 'sha256:8fca14203b356ce78381a136269421f75e8b6166808fc2b3550198226557b78f'}
+  - {seq: 4, filename: KR3ee004_004.yaml, hash: 'sha256:e94382a87d045913aeb6a890c5fac4782bdcb9fd745c5f9c903d2504a7b0e9cf'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee004_000.markers.yaml, hash: 'sha256:50590c4faf5831abe1389930032bc34e7132e43e75c48ece0b38d1e7e3c2fd6f'}
-  - {seq: 1, role: markers, filename: assets/KR3ee004_001.markers.yaml, hash: 'sha256:2e0fb114896b8ea60843996873a580bea98494ff746dfe9efa49e952daa5b262'}
-  - {seq: 2, role: markers, filename: assets/KR3ee004_002.markers.yaml, hash: 'sha256:f56fc01da71b5184f36aea401014dd0af35c1b1b0b26e7135e378673db448bc4'}
-  - {seq: 3, role: markers, filename: assets/KR3ee004_003.markers.yaml, hash: 'sha256:b310ea55706311c8a78c1265cff23513089ce1d98134bed234116a82973f0019'}
-  - {seq: 4, role: markers, filename: assets/KR3ee004_004.markers.yaml, hash: 'sha256:b8a6a1b99fce344400183aff5a132717894c05dfa6e09cc6e31cddbd5533bc50'}
+  - {seq: 0, role: markers, filename: assets/KR3ee004_000.markers.yaml, hash: 'sha256:c5b0e3d75a4e0f9640868a9558e0318fb8d52f9738b71b1975c4668b07efb840'}
+  - {seq: 1, role: markers, filename: assets/KR3ee004_001.markers.yaml, hash: 'sha256:65fa7de14141d196cb3485d49a95ac60e5f57b2bf54f5b2b7b328caa1d101bfd'}
+  - {seq: 2, role: markers, filename: assets/KR3ee004_002.markers.yaml, hash: 'sha256:8488319bf477671bbbf6faf0ae0365fa871737dd474f8aa86112286780019b01'}
+  - {seq: 3, role: markers, filename: assets/KR3ee004_003.markers.yaml, hash: 'sha256:f42b98ccea19d720e2880d109fb71532187713ab024b32377a0ca00c3ee3a3a4'}
+  - {seq: 4, role: markers, filename: assets/KR3ee004_004.markers.yaml, hash: 'sha256:3348edb937ba331fb11b235f9ea32f0d27740452d887466f899dce00ef131991'}
 table_of_contents:
 - ref:
     seq: 0
@@ -4429,7 +4429,4 @@ table_of_contents:
   label: 治多年醫不可痔瘡灸法
   type: section
   level: 2
-hash: sha256:58f8f149964b7d16298a6dc6db16211918dbc9dc79717d3bf9501c71788d93cb
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:aa3de3e10f90b40dfc22807b1c2413c6d2f421dbfe030b4c364ce39a4a104c18
