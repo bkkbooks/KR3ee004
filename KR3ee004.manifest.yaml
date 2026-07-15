@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee004/v1
 canonical_location: https://kanripo.org/bkk/KR3ee004/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 針灸神書
   identifiers:
@@ -17,17 +17,17 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee004_000.yaml, hash: 'sha256:50e525ddfec4605bdc4ee0fc234dace2b3d3c9993f368feabaabd84aba6a68a3'}
-  - {seq: 1, filename: KR3ee004_001.yaml, hash: 'sha256:5b61afe853998eb98a7d1a5bf4413b2a83c9a62f99af791331355eb2b34a7e2a'}
-  - {seq: 2, filename: KR3ee004_002.yaml, hash: 'sha256:c7c63b1f3c53be8f3eefca86e3e474b67d48cfcdbbf98e86a4964691f2d2ce93'}
-  - {seq: 3, filename: KR3ee004_003.yaml, hash: 'sha256:8fca14203b356ce78381a136269421f75e8b6166808fc2b3550198226557b78f'}
-  - {seq: 4, filename: KR3ee004_004.yaml, hash: 'sha256:e94382a87d045913aeb6a890c5fac4782bdcb9fd745c5f9c903d2504a7b0e9cf'}
+  - {seq: 0, filename: KR3ee004_000.yaml, hash: 'sha256:3d8886e1697e02274865fbabbb4875fcda94eed302121cb122e98b23eeaeeb0d'}
+  - {seq: 1, filename: KR3ee004_001.yaml, hash: 'sha256:5ff37446048f66a906d89433e421630ac195d2aca65361598d8272cf46813a8b'}
+  - {seq: 2, filename: KR3ee004_002.yaml, hash: 'sha256:907a18b310c17c63d82660cda8ad6a2db1b45f281ad5091309594eb8fc32830b'}
+  - {seq: 3, filename: KR3ee004_003.yaml, hash: 'sha256:5e7c001f736e80afd121d4317c8fc6bcedeecd3008bfd90f5ade5d5352569034'}
+  - {seq: 4, filename: KR3ee004_004.yaml, hash: 'sha256:2a87d8a95afe9e10d70a8a09727482b12f582c71dbc13846546d12ae5251d76b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee004_000.markers.yaml, hash: 'sha256:c5b0e3d75a4e0f9640868a9558e0318fb8d52f9738b71b1975c4668b07efb840'}
-  - {seq: 1, role: markers, filename: assets/KR3ee004_001.markers.yaml, hash: 'sha256:65fa7de14141d196cb3485d49a95ac60e5f57b2bf54f5b2b7b328caa1d101bfd'}
-  - {seq: 2, role: markers, filename: assets/KR3ee004_002.markers.yaml, hash: 'sha256:8488319bf477671bbbf6faf0ae0365fa871737dd474f8aa86112286780019b01'}
-  - {seq: 3, role: markers, filename: assets/KR3ee004_003.markers.yaml, hash: 'sha256:f42b98ccea19d720e2880d109fb71532187713ab024b32377a0ca00c3ee3a3a4'}
-  - {seq: 4, role: markers, filename: assets/KR3ee004_004.markers.yaml, hash: 'sha256:3348edb937ba331fb11b235f9ea32f0d27740452d887466f899dce00ef131991'}
+  - {seq: 0, role: markers, filename: assets/KR3ee004_000.markers.yaml, hash: 'sha256:822bb471ebe2097ce1e3e3b05402f75bd3c910b73a5501a09ff84eafb00a8694'}
+  - {seq: 1, role: markers, filename: assets/KR3ee004_001.markers.yaml, hash: 'sha256:ec0343e8ad60061c3d863394ffc5d7852b9cf68644e9089f157ab3aa69bbff6b'}
+  - {seq: 2, role: markers, filename: assets/KR3ee004_002.markers.yaml, hash: 'sha256:0ef37e5ba22735de0df99ed3282101ca97f7e878e002bddb33b26c11ac564a1a'}
+  - {seq: 3, role: markers, filename: assets/KR3ee004_003.markers.yaml, hash: 'sha256:9977425f0e47700e9b1b7484cc5f2927acdb7d5a69f46b66aa65cc9833768fed'}
+  - {seq: 4, role: markers, filename: assets/KR3ee004_004.markers.yaml, hash: 'sha256:47c00c4ae6629c180aae270e139681898f10bf3e9fd3ce0c0479b2189ee49645'}
 table_of_contents:
 - ref:
     seq: 0
@@ -4429,4 +4429,7 @@ table_of_contents:
   label: 治多年醫不可痔瘡灸法
   type: section
   level: 2
-hash: sha256:aa3de3e10f90b40dfc22807b1c2413c6d2f421dbfe030b4c364ce39a4a104c18
+hash: sha256:c7f309d76710d415d39db38b5cda893794ed380366b59a8655c362440507e4ef
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
