@@ -26,7 +26,7 @@ assets:
   - {seq: 0, role: markers, filename: assets/KR3ee004_000.markers.yaml, hash: 'sha256:822bb471ebe2097ce1e3e3b05402f75bd3c910b73a5501a09ff84eafb00a8694'}
   - {seq: 1, role: markers, filename: assets/KR3ee004_001.markers.yaml, hash: 'sha256:ec0343e8ad60061c3d863394ffc5d7852b9cf68644e9089f157ab3aa69bbff6b'}
   - {seq: 2, role: markers, filename: assets/KR3ee004_002.markers.yaml, hash: 'sha256:0ef37e5ba22735de0df99ed3282101ca97f7e878e002bddb33b26c11ac564a1a'}
-  - {seq: 3, role: markers, filename: assets/KR3ee004_003.markers.yaml, hash: 'sha256:9977425f0e47700e9b1b7484cc5f2927acdb7d5a69f46b66aa65cc9833768fed'}
+  - {seq: 3, role: markers, filename: assets/KR3ee004_003.markers.yaml, hash: 'sha256:2f853a906f9d766505abe23f3e35712106507d9da2e7a7249917ba31da48aee6'}
   - {seq: 4, role: markers, filename: assets/KR3ee004_004.markers.yaml, hash: 'sha256:47c00c4ae6629c180aae270e139681898f10bf3e9fd3ce0c0479b2189ee49645'}
 table_of_contents:
 - ref:
@@ -4429,7 +4429,7 @@ table_of_contents:
   label: 治多年醫不可痔瘡灸法
   type: section
   level: 2
-hash: sha256:c7f309d76710d415d39db38b5cda893794ed380366b59a8655c362440507e4ef
+hash: sha256:bcec85ceaefaa2aa743a22420d32b8bd1c1df2bce8b92d8c1bd8467d7e280f5f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
